@@ -18,6 +18,6 @@ Henry me a permitido adquirir el cnocimiento y experiencia para poder comenzar e
 * Python
 
 ## Contacto:
-  marianapiras@hotmail.com
-  https://www.linkedin.com/in/mariana-piras/
-  tel: 3571-416885
+* marianapiras@hotmail.com
+* https://www.linkedin.com/in/mariana-piras/
+* tel: 3571-416885

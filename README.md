@@ -1,4 +1,4 @@
-# Mariana-Piras
+# marianapiras
 
 ## ¿Quien soy?
 Soy Ingeniera en Alimentos y Data Analytics. Apasionada por los datos.
